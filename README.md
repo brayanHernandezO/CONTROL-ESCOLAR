@@ -1,5 +1,5 @@
 # CONTROL-ESCOLAR
-Una  aplicación  que  le  permita  llevar  el  control  de  lo siguiente:1.
+Una  aplicación  que  le  permita  llevar  el  control  de  lo siguiente:
 
 Alumnos:  Inscripciones,  reinscripciones,  bajas,  cambiosde  carrera,  pagosy evaluación de profesores.
 
